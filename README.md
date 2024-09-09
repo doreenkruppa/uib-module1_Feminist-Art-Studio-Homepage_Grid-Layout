@@ -4,6 +4,7 @@
 
 ### Creation of a new homepage for the Feminist Art Dealer Studio, oriented to the mockup
 
+(only desktop version, don't care about responsiveness for this task)
 ![reference image](assets/reference-image.png)
 
 Used nested grid and _Maven Pro_ font from **Google Fonts**
