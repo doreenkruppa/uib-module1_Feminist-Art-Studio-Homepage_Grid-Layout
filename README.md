@@ -1,15 +1,19 @@
-# Feminist Art Studio Homepage with Grid Layout
+# Feminist Art Studio Homepage - Desktop Version with Grid Layout
 
 ## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
 
-### Creation of a new homepage for the Feminist Art Dealer Studio, oriented to the mockup
+created at 01.10.22;
 
-(only desktop version, no responsiveness for this task)
-![reference image](assets/reference-image.png)
+Creation of a new homepage for the Feminist Art Dealer Studio, oriented to the mockup;
+(only desktop version, no responsiveness for this task); Used nested grid and _Maven Pro_ font from **Google Fonts**
 
-Used nested grid and _Maven Pro_ font from **Google Fonts**
+#### My desktop version:
 
-01.10.22
+![my_desktop](./assets/my_desktop_version.png)
+
+#### Mockup
+
+![reference image](./assets/reference-image.png)
 
 ### Image-Sources:
 
